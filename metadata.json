@@ -1,0 +1,6 @@
+{
+  "name": "GigiSehat - Game Edukasi Kesehatan Gigi",
+  "description": "Game edukasi interaktif kesehatan gigi dan mulut: pilah makanan sehat, basmi kuman plak gigi, dan susun langkah menyikat gigi yang benar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
